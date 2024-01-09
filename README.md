@@ -37,8 +37,6 @@ Run Inference:
 
 Navigate to the inference classifier folder.
 Run the script to initiate the gesture detection window for testing.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 
 Note: To enhance the accuracy and adapt the system to personal preferences, users are encouraged to create and use their own gesture datasets during both training and real-time usage.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -52,6 +50,8 @@ Gesture Logging: Option to log recognized gestures for further analysis or integ
 Real-time Feedback: Provides visual or audio feedback in real-time for recognized gestures.
 Multi-Gesture Support: Recognizes and processes multiple gestures simultaneously for advanced interactions.
 API Integration: Allows developers to integrate the gesture detection functionality into their own applications.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Contributing
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 We welcome contributions! If you have ideas for improvement, open an issue or submit a pull request.
